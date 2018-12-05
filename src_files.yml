@@ -1,0 +1,11 @@
+soc_event_generator:
+  incdirs: [
+    .,
+  ]
+  files: [
+
+  	 rtl/soc_event_queue.sv,
+	 rtl/soc_event_arbiter.sv,
+	 rtl/soc_event_generator.sv,
+ 
+  ]
